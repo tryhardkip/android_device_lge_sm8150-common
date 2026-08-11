@@ -22,6 +22,9 @@ ro.surface_flinger.max_frame_buffer_acquired_buffers=3
 # FUSE passthrough
 persist.sys.fuse.passthrough.enable=true
 
+# Kawase2 Render Engine Blur Algorithm
+debug.renderengine.blur_algorithm=kawase2
+
 # GMS
 ro.com.google.clientidbase.ms=android-lge-rev1
 
