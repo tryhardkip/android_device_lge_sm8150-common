@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "tryhardkip/android_hardware_lge",
+    "revision": "crdroid-17.0",
+    "target_path": "hardware/lge"
+  },
+  {
+    "repository": "tryhardkip/android_kernel_lge_sm8150",
+    "revision": "lineage-24.0",
+    "target_path": "kernel/lge/sm8150"
+  },
+  {
+    "repository": "tryhardkip/proprietary_vendor_lge_sm8150-common",
+    "revision": "crdroid-17.0",
+    "target_path": "vendor/lge/sm8150-common"
+  }
+]
